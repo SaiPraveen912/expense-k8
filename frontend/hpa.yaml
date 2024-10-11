@@ -16,4 +16,4 @@ spec:
       name: cpu
       target:
         type: Utilization
-        averageUtilization: 1 # for test purpose this should be greater than 70-85
+        averageUtilization: 20 # for test purpose this should be greater than 70-85
